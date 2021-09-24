@@ -1,4 +1,6 @@
-# wee_developers
+#Mobile Application Development Module
+#Android app using Android Studio + Firebase
+# wee developers
 
 project name : wee_developers
 project title : foodapp (FoodSwipe)
