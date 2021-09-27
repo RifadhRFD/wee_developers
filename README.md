@@ -11,4 +11,4 @@ project members :
       Leader  - IT20038014 - RifadhRFD
       Member1 - IT20056520 - AbdullaMIM
       Member2 - IT20033514 - ArshadAhamad
-      Member3 - IT20042150 - mimzaid
+      Member3 - IT20048150 - mimzaid
