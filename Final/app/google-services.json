@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706332165806",
+    "firebase_url": "https://foodswipe-adb57-default-rtdb.firebaseio.com",
+    "project_id": "foodswipe-adb57",
+    "storage_bucket": "foodswipe-adb57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706332165806:android:58961af1f3028b37d40f3f",
+        "android_client_info": {
+          "package_name": "com.example.foodswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706332165806-v7pb8f241trc4jo4tu890vjs54v2miuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOGpoxkC5OswtV_CPoMcsM6nB1qkaEqCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706332165806-v7pb8f241trc4jo4tu890vjs54v2miuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

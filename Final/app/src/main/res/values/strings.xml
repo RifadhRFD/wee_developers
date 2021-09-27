@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Food Swipe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Colombo</item>
+        <item>Kalutara</item>
+        <item>Gampaha</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Deliverer 1</item>
+        <item>Deliverer 2</item>
+        <item>Deliverer 3</item>
+        <item>Deliverer 4</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Pizza</item>
+        <item>Dal Rice</item>
+        <item>Nasi Goreng</item>
+        <item>Burger</item>
+        <item>Biryani</item>
+        <item>Dum Biryani</item>
+        <item>Mutton Biriyani</item>
+
+    </string-array>
+</resources>
